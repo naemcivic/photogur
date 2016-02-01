@@ -1,28 +1,8 @@
-== README
+<h1> A first taste of building a Ruby on Rails app.</h1>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<h2> Features learned from building this web application </h2>
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+    * Using the 7 Restful routes for routing apps
+    * Defining a single model
+    * different ways to write methods to use in Controllers
+    * Embedded Ruby files to display ruby objects within HTML
