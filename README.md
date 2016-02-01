@@ -6,4 +6,4 @@
     * Defining a single model
     * different ways to write methods to use in Controllers
     * Embedded Ruby files to display ruby objects within HTML
-    * Deployed app to Heroku   <a href="https://floating-peak-83765.herokuapp.com/">Click here to check out my first deployed web application </a>
+    Deployed app to Heroku   <a href="https://floating-peak-83765.herokuapp.com/">Click here to check out my first deployed web application </a>
